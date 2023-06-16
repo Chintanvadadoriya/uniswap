@@ -1,0 +1,45 @@
+[
+	{
+		"name": "Token",
+		"symbol": "T",
+		"address": "0x2896675FFA745e539cc67a2CBAa7E7699BaD57c3",
+		"decimals": 18,
+		"logoURI": "https://thumbs.dreamstime.com/b/gold-bonus-token-icon-cartoon-gold-bonus-token-vector-icon-web-design-isolated-white-background-gold-bonus-token-icon-194349443.jpg"
+	},
+	{
+		"name": "TokenA",
+		"symbol": "TA",
+		"address": "0xcBf426AB99FE62D478C3A2acF13faB4F3697C660",
+		"decimals": 18,
+		"logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/7278.png"
+	},
+	{
+		"name": "TokenB",
+		"symbol": "TB",
+		"address": "0xD2272bfeCe1355098f09D425057C82Ae64aA3Ef0",
+		"decimals": 18,
+		"logoURI": "https://raw.githubusercontent.com/uniswap/assets/master/blockchains/ethereum/assets/0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599/logo.png"
+	},
+	{
+		"name": "TokenC",
+		"symbol": "TC",
+		"address": "0xC0b7046A7D15df3F1603bb4CCA165A4ED1dC2c1b",
+		"decimals": 18,
+		"logoURI": "https://img.freepik.com/premium-vector/bakeryswap-bake-token-symbol-defi-project-cryptocurrency-logo-circle-decentralized-finance-coin-icon-isolated-white-background-vector-illustration_337410-2535.jpg?w=2000"
+	},
+	{
+		"name": "TokenD",
+		"symbol": "TD",
+		"address": "0x472354b2cad06666E0aF5c26e486B0a9575bCd89",
+		"decimals": 18,
+		"logoURI": "https://cdn4.vectorstock.com/i/1000x1000/23/08/token-symbol-dogecoin-cryptocurrency-vector-36132308.jpg"
+	},
+    {
+		"name": "TokenE",
+		"symbol": "TE",
+		"address": "0x41B1593A6ADdBbEd4A527ceC944E282698Cd1073",
+		"decimals": 18,
+		"logoURI": "https://bittrex.com/content/dynamic/currencies/logos/8a4c5985-8671-4efd-9533-10297b09c3d6.png"
+	}
+    
+]
